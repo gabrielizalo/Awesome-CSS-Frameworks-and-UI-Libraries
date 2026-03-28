@@ -374,6 +374,17 @@ Minimal UI Component Library by Saurabh Chirde. Build rapid modern websites with
 UI.
 
 
+### [Penguin UI](https://github.com/SalarHoushvand/penguinui-componentsI) - [Official Site](https://www.penguinui.com)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/SalarHoushvand/penguinui-components.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/SalarHoushvand/penguinui-components.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/SalarHoushvand/penguinui-components.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/SalarHoushvand/penguinui-components.svg?style=flat-square&maxAge=5184000)]()
+
+Plug-n-play UI component library for Tailwind CSS & Alpine JS.
+
+
 ### [Pink Design](https://github.com/appwrite/pink) - [Official Site](https://pink.appwrite.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()

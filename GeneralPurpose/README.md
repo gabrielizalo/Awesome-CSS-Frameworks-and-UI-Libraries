@@ -178,18 +178,6 @@ styles for native HTML elements. Components and utilities are provided
 as optional add-ons, Concise UI and Concise Utils, respectively.
 
 
-### [Cosmic UI](https://github.com/rizkimuhammada/cosmic-ui) - [Official Site](https://www.cosmic-ui.com)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/rizkimuhammada/cosmic-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/rizkimuhammada/cosmic-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/rizkimuhammada/cosmic-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/rizkimuhammada/cosmic-ui.svg?style=flat-square&maxAge=5184000)]()
-
-Create interfaces that feel out of this world. Futuristic components for modern apps. Free and open source.
-A collection of Sci-Fi themed components and futuristic design elements for modern web applications.
-
-
 ### [DAUB](https://github.com/sliday/daub) - [Official Site](https://daub.dev/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

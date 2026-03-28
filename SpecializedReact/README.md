@@ -155,6 +155,18 @@ Chakra UI is a simple, modular and accessible component library that gives you a
 build your React applications.
 
 
+### [Cosmic UI](https://github.com/rizkimuhammada/cosmic-ui) - [Official Site](https://www.cosmic-ui.com)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/rizkimuhammada/cosmic-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/rizkimuhammada/cosmic-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/rizkimuhammada/cosmic-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/rizkimuhammada/cosmic-ui.svg?style=flat-square&maxAge=5184000)]()
+
+Create interfaces that feel out of this world. Futuristic components for modern apps. Free and open source.
+A collection of Sci-Fi themed components and futuristic design elements for modern web applications.
+
+
 ### [dotUI](https://github.com/mehdibha/dotui) - [Official Site](https://dotui.org/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/mehdibha/dotui.svg?style=flat-square&maxAge=5184000)]()

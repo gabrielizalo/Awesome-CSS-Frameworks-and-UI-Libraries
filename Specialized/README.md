@@ -42,17 +42,6 @@ CSSUI is a library of interactive user interface components realized in pure HTM
 Doodle CSS is a simple hand drawn HTML/CSS theme.
 
 
-### [Gutenberg](https://github.com/BafS/Gutenberg) - [Official Site](http://bafs.github.io/Gutenberg/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/BafS/Gutenberg.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/BafS/Gutenberg.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/BafS/Gutenberg.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/BafS/Gutenberg.svg?style=flat-square&maxAge=5184000)]()
-
-Modern framework to print web pages correctly.
-
-
 ### [LangUI](https://github.com/ahmadbilaldev/langui) - [Official Site](https://www.langui.dev/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -137,19 +126,6 @@ Style your webpage like Edward Tufte’s handouts. Edward Tufte uses a
 distinctive style in his handouts: simple, with well-set typography,
 extensive sidenotes, and tight integration of graphics and charts.
 tufte-css brings that style to HTML documents.
-
-
-### [Uniform CSS](https://github.com/ThinkUniform/uniformcss) - [Official Site](https://uniformcss.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/ThinkUniform/uniformcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/ThinkUniform/uniformcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/ThinkUniform/uniformcss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/ThinkUniform/uniformcss.svg?style=flat-square&maxAge=5184000)]()
-
-A fully configurable utility class generator and CSS framework built for Sass projects.
-Flexible responsive utility class generator and CSS framework designed to help you gain the full power of functional
-CSS without compromising on Sass.
 
 
 ### [Windi CSS](https://github.com/windicss/windicss) - [Official Site](https://windicss.org/)

@@ -132,18 +132,6 @@ Blueprint is a React-based UI toolkit for the web. It is optimized for building 
 desktop applications which run in modern browsers and IE11. This is not a mobile-first UI toolkit.
 
 
-### [Bumbag](https://github.com/bumbag/bumbag-ui) - [Official Site](https://bumbag.style/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/bumbag/bumbag-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/bumbag/bumbag-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/bumbag/bumbag-ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/bumbag/bumbag-ui.svg?style=flat-square&maxAge=5184000)]()
-
-Bumbag is a themeable, accessible & composable component library for 
-React & React Native allowing you to create cross-platform applications 
-with ease.
-
-
 ### [Chakra UI](https://github.com/chakra-ui/chakra-ui) - [Official Site](https://chakra-ui.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/chakra-ui.svg?style=flat-square&maxAge=5184000)]()
@@ -433,27 +421,6 @@ Unstyled, accessible components for building high‑quality design systems and w
 Reach UI seeks to become the accessible foundation of your React-based design system.
 
 
-### [React + Foundation](https://github.com/digiaonline/react-foundation) - [Official Site](https://react.foundation/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/digiaonline/react-foundation.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/digiaonline/react-foundation.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/digiaonline/react-foundation.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/digiaonline/react-foundation.svg?style=flat-square&maxAge=5184000)]()
-
-Bootstrap components built with React.
-
-
-### [React Desktop](https://github.com/gabrielbull/react-desktop) - [Official Site](http://reactdesktop.js.org/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/gabrielbull/react-desktop.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/gabrielbull/react-desktop.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/gabrielbull/react-desktop.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/gabrielbull/react-desktop.svg?style=flat-square&maxAge=5184000)]()
-
-react-desktop is a JavaScript library built on top of Facebook's React library, which aims to bring a native desktop 
-experience to the web, featuring many macOS Sierra and Windows 10 components. 
-
-
 ### [React Suite](https://github.com/rsuite/rsuite) - [Official Site](https://rsuitejs.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/rsuite/rsuite.svg?style=flat-square&maxAge=5184000)]()
@@ -583,18 +550,6 @@ Accessible and customizable components that you can copy and paste into your app
 And Next.js 13 Ready.
 
 
-### [Supabase UI](https://github.com/supabase/ui) - [Official Site](https://ui.supabase.io/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/supabase/ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/supabase/ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/supabase/ui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/supabase/ui.svg?style=flat-square&maxAge=5184000)]()
-
-Supabase UI is a React UI library. An open-source UI component library inspired by Tailwind and AntDesign.
-Supabase UI is a high-level UI component library with a focus on creating beautiful apps quickly and efficiently.
-Supabase UI is designed to be used with Tailwind CSS utility classes.
-
-
 ### [Tail-kit](https://github.com/Charlie85270/tail-kit) - [Official Site](https://www.tailwind-kit.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Charlie85270/tail-kit.svg?style=flat-square&maxAge=5184000)]()
@@ -646,17 +601,6 @@ flexibility of CSS-in-JS with the carefully considered constraints of the Tailwi
 [![GitHub issues](https://img.shields.io/github/issues/AKAspanion/ui-neumorphism.svg?style=flat-square&maxAge=5184000)]()
 
 React component library designed on the "new skeuomorphism" or "neumorphism" UI/UX trend.
-
-
-### [VechaiUI](https://github.com/vechai/vechaiui) - [Official Site](https://www.vechaiui.com/)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/vechai/vechaiui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/vechai/vechaiui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/vechai/vechaiui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/vechai/vechaiui.svg?style=flat-square&maxAge=5184000)]()
-
-A set of high-quality accessible React UI components with the built-in 
-dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 
 
 ### [VengeanceUI](https://github.com/Ashutoshx7/VengenceUI) - [Official Site](https://www.vengenceui.com)

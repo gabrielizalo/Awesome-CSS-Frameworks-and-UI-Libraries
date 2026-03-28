@@ -247,6 +247,18 @@ BuddyCSS is a CSS/JS framework. BuddyCSS is a simple CSS framework to
 build awesome websites easily.
 
 
+### [Bumbag](https://github.com/bumbag/bumbag-ui) - [Official Site](https://bumbag.style/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/bumbag/bumbag-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/bumbag/bumbag-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/bumbag/bumbag-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/bumbag/bumbag-ui.svg?style=flat-square&maxAge=5184000)]()
+
+Bumbag is a themeable, accessible & composable component library for
+React & React Native allowing you to create cross-platform applications
+with ease.
+
+
 ### [Cardinal](https://github.com/cardinalcss/cardinalcss) - [Official Site](http://cardinalcss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
@@ -1183,6 +1195,27 @@ Works like auto-layout by aligning and distributing. Capable of
 12-column layouts, packery, & masonry. Perfect for components.
 
 
+### [React + Foundation](https://github.com/digiaonline/react-foundation) - [Official Site](https://react.foundation/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/digiaonline/react-foundation.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/digiaonline/react-foundation.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/digiaonline/react-foundation.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/digiaonline/react-foundation.svg?style=flat-square&maxAge=5184000)]()
+
+Bootstrap components built with React.
+
+
+### [React Desktop](https://github.com/gabrielbull/react-desktop) - [Official Site](http://reactdesktop.js.org/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/gabrielbull/react-desktop.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/gabrielbull/react-desktop.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/gabrielbull/react-desktop.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/gabrielbull/react-desktop.svg?style=flat-square&maxAge=5184000)]()
+
+react-desktop is a JavaScript library built on top of Facebook's React library, which aims to bring a native desktop
+experience to the web, featuring many macOS Sierra and Windows 10 components.
+
+
 ### [React Toolbox](https://github.com/react-toolbox/react-toolbox) - [Official Site](http://react-toolbox.io/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/react-toolbox/react-toolbox.svg?style=flat-square&maxAge=5184000)]()
@@ -1400,19 +1433,6 @@ Stylizer is a Open-source CSS Framework that make web design flat, is based on t
 you a clean and easy work
 
 
-### [System.css](https://github.com/sakofchit/system.css) - [Official Site](https://sakofchit.github.io/system.css/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/sakofchit/system.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/sakofchit/system.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/sakofchit/system.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/sakofchit/system.css.svg?style=flat-square&maxAge=5184000)]()
-
-System.css is a CSS library for building interfaces that resemble Apple's System OS which ran from 1984-1991.
-Design-wise, not much really changed from System 1 to System 6; however this library is based on System 6 as it was the
-final monochrome version of MacOS.
-
-
 ### [Surface](https://github.com/mildrenben/surface) - [Official Site](http://mildrenben.github.io/surface/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -1427,6 +1447,18 @@ minified and Gzipped. 100% CSS only. Absolutely zero Javascript. As of
 26th Sept 2017, this repo is no longer being actively maintained.
 
 
+### [Supabase UI](https://github.com/supabase/ui) - [Official Site](https://ui.supabase.io/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/supabase/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/supabase/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/supabase/ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/supabase/ui.svg?style=flat-square&maxAge=5184000)]()
+
+Supabase UI is a React UI library. An open-source UI component library inspired by Tailwind and AntDesign.
+Supabase UI is a high-level UI component library with a focus on creating beautiful apps quickly and efficiently.
+Supabase UI is designed to be used with Tailwind CSS utility classes.
+
+
 ### [Synergy](https://github.com/One-Nexus/Synergy) - No Official Site
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
@@ -1435,6 +1467,19 @@ minified and Gzipped. 100% CSS only. Absolutely zero Javascript. As of
 [![GitHub issues](https://img.shields.io/github/issues/One-Nexus/Synergy.svg?style=flat-square&maxAge=5184000)]()
 
 Synergy is a framework for building modular, configurable and scalable UI components for React-DOM projects.
+
+
+### [System.css](https://github.com/sakofchit/system.css) - [Official Site](https://sakofchit.github.io/system.css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/sakofchit/system.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/sakofchit/system.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/sakofchit/system.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/sakofchit/system.css.svg?style=flat-square&maxAge=5184000)]()
+
+System.css is a CSS library for building interfaces that resemble Apple's System OS which ran from 1984-1991.
+Design-wise, not much really changed from System 1 to System 6; however this library is based on System 6 as it was the
+final monochrome version of MacOS.
 
 
 ### [Taffy](https://github.com/lodog23/Taffy-CSS-Framework) - [Official Site](http://www.taffy.logancarlile23.com/)
@@ -1590,6 +1635,17 @@ prototype.
 Unsemantic is a fluid grid system that is the successor to the 960 Grid
 System. It works in a similar way, but instead of being a set number of
 columns, it's entirely based on percentages.
+
+
+### [VechaiUI](https://github.com/vechai/vechaiui) - [Official Site](https://www.vechaiui.com/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/vechai/vechaiui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/vechai/vechaiui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/vechai/vechaiui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/vechai/vechaiui.svg?style=flat-square&maxAge=5184000)]()
+
+A set of high-quality accessible React UI components with the built-in
+dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 
 
 ### [W3.CSS](https://github.com/JaniRefsnes/w3css) - [Official Site](https://www.w3schools.com/w3css/)

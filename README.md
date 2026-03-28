@@ -16,9 +16,9 @@ Last update: 2026-03-28
 * [Material Design (6)](MaterialDesign/README.md)
 * [Specialized: Email (6)](SpecializedEmail/README.md)
 * [Specialized: Grid Systems (2)](SpecializedGridSystems/README.md)
-* [Specialized: For React (62)](SpecializedReact/README.md)
+* [Specialized: For React (57)](SpecializedReact/README.md)
 * [Specialized: Other (10)](Specialized/README.md)
-* [No Longer Maintained (129)](NoLongerMaintained/README.md)
+* [No Longer Maintained (134)](NoLongerMaintained/README.md)
 
 
 

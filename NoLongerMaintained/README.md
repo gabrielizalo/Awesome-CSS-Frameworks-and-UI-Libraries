@@ -1218,6 +1218,18 @@ A powerful, accessible, developer friendly framework for building
 responsive websites.
 
 
+### [Responsive HTML Email Template](https://github.com/charlesmudy/responsive-html-email-template) - [Official Site](http://www.charlesmudy.com/respmail/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/charlesmudy/responsive-html-email-template.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/charlesmudy/responsive-html-email-template.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/charlesmudy/responsive-html-email-template.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/charlesmudy/responsive-html-email-template.svg?style=flat-square&maxAge=5184000)]()
+
+Responsive HTML email template designed to work on all major email
+platforms and smartphones.
+
+
 ### [Rimble](https://github.com/ConsenSysMesh/rimble-ui) - [Official Site](https://rimble.consensys.design/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/ConsenSysMesh/rimble-ui.svg?style=flat-square&maxAge=5184000)]()

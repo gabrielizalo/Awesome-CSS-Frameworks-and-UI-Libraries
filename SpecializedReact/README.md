@@ -671,6 +671,18 @@ VengeanceUI is a modern, animated UI component library designed to help develope
 interfaces faster. It provides ready-to-use, copy-paste friendly components with smooth animations and clean design.
 
 
+## [warcraftcn/ui(https://github.com/TheOrcDev/warcraftcn-ui) - [Official Site](https://www.warcraftcn.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/TheOrcDev/warcraftcn-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/TheOrcDev/warcraftcn-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/TheOrcDev/warcraftcn-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/TheOrcDev/warcraftcn-ui.svg?style=flat-square&maxAge=5184000)]()
+
+A collection of accessible, retro-inspired UI components drawing from classic real-time strategy aesthetics.
+Built for modern web/apps. Fully open source – copy, paste, customize.
+
+
 ### [wedges](https://github.com/lmsqueezy/wedges) - [Official Site](https://lemonsqueezy.com/wedges)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/lmsqueezy/wedges.svg?style=flat-square&maxAge=5184000)]()

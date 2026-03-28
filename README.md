@@ -10,7 +10,7 @@ Last update: 2026-03-28
 
 ## Categories
 
-* [The Big Ones (22)](#the-big-ones)
+* [The Big Ones (25)](#the-big-ones)
 * [AI Interfaces (3)](AI/README.md)
 * [Base / Reset / Normalize (14)](BaseResetNormalize/README.md)
 * [General Purpose (55)](GeneralPurpose/README.md)
@@ -232,6 +232,20 @@ customizable, responsive grid, a large library of Sass mixins, commonly
 used JavaScript plugins, and full accessibility support.
 
 
+### [NextUI](https://github.com/nextui-org/nextui) - [Official Site](https://nextui.org/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/nextui-org/nextui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/nextui-org/nextui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/nextui-org/nextui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/nextui-org/nextui.svg?style=flat-square&maxAge=5184000)]()
+
+Beautiful, fast and modern React UI library. NextUI allows you make
+beautiful, modern, and fast websites/applications regardless of your
+design experience, created with React.js and styled-jsx, based on
+GeistUI and inspired by Vuesax.
+
+
 ### [Headless UI](https://github.com/tailwindlabs/headlessui) - [Official Site](https://headlessui.dev/)
 
 [![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
@@ -328,6 +342,33 @@ NES.css is a NES-style(8bit-like) CSS Framework.
 
 Blueprint is a React-based UI toolkit for the web. It is optimized for building complex, data-dense web interfaces for
 desktop applications which run in modern browsers and IE11. This is not a mobile-first UI toolkit.
+
+
+### [Fluent UI](https://github.com/microsoft/fluentui) - [Official Site](https://developer.microsoft.com/en-us/fluentui)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/microsoft/fluentui.svg?style=flat-square&maxAge=5184000)]()
+
+A set of React components for building Microsoft web experiences. Fluent UI React is a collection of robust React-based
+components designed to make it simple for you to create consistent web experiences using the Fluent Design Language.
+
+
+### [Skeleton](https://github.com/dhg/Skeleton/) - [Official Site](http://getskeleton.com/)
+
+[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
+
+A dead simple, responsive boilerplate. Light as a feather at ~400 lines
+& built with mobile in mind. Styles designed to be a starting point, not
+a UI framework. Quick to start with zero compiling or installing
+necessary.
 
 
 

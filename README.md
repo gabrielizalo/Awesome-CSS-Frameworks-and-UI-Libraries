@@ -358,7 +358,7 @@ components designed to make it simple for you to create consistent web experienc
 
 ### [Skeleton](https://github.com/dhg/Skeleton/) - [Official Site](http://getskeleton.com/)
 
-[![Category](https://img.shields.io/badge/-Specialized:%20For%20React-759AAB.svg?style=flat-square&logo=react&maxAge=5184000)]()
+[![Category](https://img.shields.io/badge/-No%20Longer%20Maintained-FB3640.svg?style=flat-square&maxAge=5184000)]()
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub tag](https://img.shields.io/github/tag/dhg/Skeleton.svg?style=flat-square&maxAge=5184000)]()

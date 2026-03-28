@@ -973,7 +973,7 @@ has solid email client compatibility.
 A versatile CSS Framework. Simple, light and responsive!
 
 
-### [Propeller](https://github.com/digicorp/propeller) - [Official Site](https://propeller.in/)
+### [Propeller](https://github.com/digicorp/propeller) - No Official Site
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/digicorp/propeller.svg?style=flat-square&maxAge=5184000)]()

@@ -49,6 +49,17 @@ your HTML/React/Vue demo on CodePen/CodeSandbox. It can also be used as
 a base style for your blog/website.
 
 
+### [Blades](https://github.com/anydigital/blades) - [Official Site](https://blades.ninja/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/anydigital/blades.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/anydigital/blades.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/anydigital/blades.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/anydigital/blades.svg?style=flat-square&maxAge=5184000)]()
+
+Framework-agnostic, class-light CSS⁺ blade kit. Use with Pico, Simple, Tailwind, or any other CSS reset/framework 🥷
+
+
 ### [Blaze CSS](https://github.com/BlazeSoftware/atoms) - [Official Site](https://www.blazeui.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()

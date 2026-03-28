@@ -115,34 +115,6 @@ Ellegant is a CSS framework that aims to provide user interaction with very litt
 and labels, Ellegant targets elements providing a fast and clean user experience even on low-end mobile devices.
 
 
-### [fractures](https://github.com/fractures/fractures) - [Official Site](https://fractures.space/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/fractures/fractures.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/fractures/fractures.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/fractures/fractures.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/fractures/fractures.svg?style=flat-square&maxAge=5184000)]()
-
-Baseline atomic CSS toolkit. Fractures helps you bootstrap
-design-systems and prototypes by providing a set of non-blocking,
-atomic, utility classes.
-
-
-### [Furtive](https://github.com/johno/furtive) - [Official Site](http://furtive.co/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
-
-A forward-thinking, CSS micro-framework. Furtive is truly mobile-first
-and nearly all dimensions are done in rem. It also has a small
-footprint, cutting down on the bandwidth necessary for downloading CSS.
-Furtive is intended to be just that, furtive. It's the perfect starting
-point to get your project up and running.
-
-
 ### [high-IQ CSS](https://github.com/jonathanharrell/hiq) - [Official Site](https://jonathanharrell.github.io/hiq/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -277,17 +249,6 @@ and open source framework for design flat and clean websites. It has been
 built in SASS/SCSS and provides a clean starting point for your web design.
 
 
-### [Spectre.css Modified](https://github.com/angular-package/spectre.css) - [Official Site](https://spectre.angular-package.dev/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/angular-package/spectre.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/angular-package/spectre.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/angular-package/spectre.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/angular-package/spectre.css.svg?style=flat-square&maxAge=5184000)]()
-
-Modified Spectre.css - a lightweight, responsive, and modern CSS framework originally designed by Yan Zhu.
-
-
 ### [Tacit](https://github.com/yegor256/tacit/) - [Official Site](https://yegor256.github.io/tacit/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -326,17 +287,6 @@ beautiful web interfaces quickly and efficiently.
 A modern and minimal CSS framework for terminal lovers. Terminal CSS has 
 no overhead and is lightweight (~ 3k gzip). The source is written in 
 pure css to be accessible for everybody and easy to contribute.
-
-
-### [Uimini](https://github.com/uimini/uimini) - [Official Site](https://uimini.github.io/docs/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/uimini/uimini.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/uimini/uimini.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/uimini/uimini.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/uimini/uimini.svg?style=flat-square&maxAge=5184000)]()
-
-Uimini modern and lightweight CSS framework.
 
 
 ### [µCSS](https://github.com/Digicreon/muCSS) - [Official Site](https://mucss.org)

@@ -600,6 +600,21 @@ Flex Row CSS Grid System. Frow is an open source HTML and CSS framework
 for creating quick & responsive projects on the web, powered by Flexbox.
 
 
+### [Furtive](https://github.com/johno/furtive) - [Official Site](http://furtive.co/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/johno/furtive.svg?style=flat-square&maxAge=5184000)]()
+
+A forward-thinking, CSS micro-framework. Furtive is truly mobile-first
+and nearly all dimensions are done in rem. It also has a small
+footprint, cutting down on the bandwidth necessary for downloading CSS.
+Furtive is intended to be just that, furtive. It's the perfect starting
+point to get your project up and running.
+
+
 ### [Griddd](https://github.com/shankariyerr/griddd) - [Official Site](http://griddd.surge.sh/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -1315,6 +1330,17 @@ CSS components and utilities with best practice coding and consistent
 design language.
 
 
+### [Spectre.css Modified](https://github.com/angular-package/spectre.css) - [Official Site](https://spectre.angular-package.dev/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/angular-package/spectre.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/angular-package/spectre.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/angular-package/spectre.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/angular-package/spectre.css.svg?style=flat-square&maxAge=5184000)]()
+
+Modified Spectre.css - a lightweight, responsive, and modern CSS framework originally designed by Yan Zhu.
+
+
 ### [Strawberry CSS](https://github.com/jfet97/strawberry) - [Official Site](https://jfet97.github.io/strawberry/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -1461,6 +1487,17 @@ both _less_ and _sass_ versions so it can easily be modified and merged into
 modern web projects. It provides all the necessary scaffolding for good
 typography without adding any aesthetics. It is built to be modified as
 projects evolve and grow, and plays nice with normalize.css.
+
+
+### [Uimini](https://github.com/uimini/uimini) - [Official Site](https://uimini.github.io/docs/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/uimini/uimini.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/uimini/uimini.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/uimini/uimini.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/uimini/uimini.svg?style=flat-square&maxAge=5184000)]()
+
+Uimini modern and lightweight CSS framework.
 
 
 ### [unlimitedGrid](https://github.com/PixelT/unlimitedGrid) - [Official Site](http://pixelt.github.io/unlimitedGrid/)

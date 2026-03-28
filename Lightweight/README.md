@@ -115,6 +115,19 @@ Ellegant is a CSS framework that aims to provide user interaction with very litt
 and labels, Ellegant targets elements providing a fast and clean user experience even on low-end mobile devices.
 
 
+### [Flat Remix CSS library](https://github.com/daniruiz/flat-remix-css) - [Official Site](https://drasite.com/flat-remix-css)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/daniruiz/flat-remix-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/daniruiz/flat-remix-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/daniruiz/flat-remix-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/daniruiz/flat-remix-css.svg?style=flat-square&maxAge=5184000)]()
+
+A lightweight CSS library that provides a set of predesigned elements
+for a fast web development. It follows a modern "flat" design using
+high contrasts and sharp borders.
+
+
 ### [high-IQ CSS](https://github.com/jonathanharrell/hiq) - [Official Site](https://jonathanharrell.github.io/hiq/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

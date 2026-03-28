@@ -12,13 +12,13 @@ Last update: 2026-03-28
 * [AI Interfaces (1)](AI/README.md)
 * [Base / Reset / Normalize (14)](BaseResetNormalize/README.md)
 * [General Purpose (54)](GeneralPurpose/README.md)
-* [Lightweight (23)](Lightweight/README.md)
-* [Material Design (6)](MaterialDesign/README.md)
+* [Lightweight (24)](Lightweight/README.md)
+* [Material Design (7)](MaterialDesign/README.md)
 * [Specialized: Email (6)](SpecializedEmail/README.md)
 * [Specialized: Grid Systems (2)](SpecializedGridSystems/README.md)
 * [Specialized: For React (57)](SpecializedReact/README.md)
 * [Specialized: Other (10)](Specialized/README.md)
-* [No Longer Maintained (134)](NoLongerMaintained/README.md)
+* [No Longer Maintained (130)](NoLongerMaintained/README.md)
 
 
 

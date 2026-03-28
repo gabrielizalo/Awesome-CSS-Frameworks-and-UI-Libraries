@@ -533,19 +533,6 @@ and themeing on projects easily. It uses simple and descriptive class
 names, and yet generic enough to be understood easily.
 
 
-### [Flat Remix CSS library](https://github.com/daniruiz/flat-remix-css) - [Official Site](https://drasite.com/flat-remix-css)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/daniruiz/flat-remix-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/daniruiz/flat-remix-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/daniruiz/flat-remix-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/daniruiz/flat-remix-css.svg?style=flat-square&maxAge=5184000)]()
-
-A lightweight CSS library that provides a set of predesigned elements
-for a fast web development. It follows a modern "flat" design using
-high contrasts and sharp borders.
-
-
 ### [Flexbox Grid](https://github.com/kristoferjoseph/flexboxgrid) - [Official Site](http://flexboxgrid.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -592,14 +579,6 @@ HTML is **almost** 100% responsive by default. These 247 bytes of css
 fix the 'almost' part. 
 
 
-### [Fluent Kit](https://github.com/nespero/fluent-kit) - No Official Site
-
-Fluent Kit WAS (author removed all about it) a Fluent Design inspired UI kit based on the latest
-Bootstrap. A library introducing Fluent Design to the Web, built on top
-of the most popular frameworks to keep the development process as simple
-as possible.
-
-
 ### [Frow CSS](https://github.com/beg-in/frow) - [Official Site](http://frowcss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -637,15 +616,6 @@ point to get your project up and running.
 
 A dead simple, customisable, flexbox-based griddd. It's Responsive,
 Lightweight and Customisable.
-
-
-### [GroundworkCSS 2](https://github.com/groundworkcss/groundwork) - No Official Site
-
-GroundworkCSS 2 (author removed all about it).
-Say hello to responsive design made easy. GroundworkCSS is a fully
-responsive HTML5, CSS and Javascript toolkit created by @ghepting. Using
-GroundworkCSS, you can rapidly prototype and create accessible web apps
-that work on virtually any device.
 
 
 ### [Gutenberg](https://github.com/BafS/Gutenberg) - [Official Site](http://bafs.github.io/Gutenberg/)
@@ -887,18 +857,6 @@ Material Design version of Foundation for Sites by Zurb.
 [![GitHub issues](https://img.shields.io/github/issues/Dogfalo/materialize.svg?style=flat-square&maxAge=5184000)]()
 
 Materialize, a CSS Framework based on Material Design.
-
-
-### [Materialize Web](https://github.com/material-components/material-web) - [Official Site](https://material-web.dev/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/material-components/material-web.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/material-components/material-web.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/material-components/material-web.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/material-components/material-web.svg?style=flat-square&maxAge=5184000)]()
-
-Material web, also known as Material Web Components or MWC, is a library of web components that follows Google's
-Material Design guidelines.
 
 
 ### [Metro 4 for React](https://github.com/olton/Metro4-React) - [Official Site](https://react.metroui.org.ua/)

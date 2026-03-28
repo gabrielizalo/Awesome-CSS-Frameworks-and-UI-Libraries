@@ -1,5 +1,7 @@
 # Gabo's Awesome CSS Frameworks and UI Libraries
 
+![awesome-css-frameworks-header.png](media/awesome-css-frameworks-header.png)
+
 An extensive list of Awesome CSS Frameworks and UI/Components Libraries based on **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**.
 
 Last update: 2026-03-28
@@ -330,3 +332,10 @@ desktop applications which run in modern browsers and IE11. This is not a mobile
 
 
 [_Return to Categories_](#categories)
+
+
+
+## Credits
+
+Banner image photo by <a href="https://unsplash.com/@fongsoul?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">FONG</a> on <a href="https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-text-on-it-NYcUkFJuxg0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      

@@ -30,33 +30,6 @@ A design system for building faithful recreations of old UIs. 98.css is a CSS fi
 it look pretty. It does not ship with any JavaScript, so it is compatible with your frontend framework of choice.
 
 
-### [Amigo CSS](https://github.com/amiamigo97/amigocss) - [Official Site](https://amigocss.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/amiamigo97/amigocss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/amiamigo97/amigocss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/amiamigo97/amigocss.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/amiamigo97/amigocss.svg?style=flat-square&maxAge=5184000)]()
-
-Amigo CSS is a simple, custom-first and intuitive CSS framework for CSS lovers. The inspiration to create Amigo CSS came
-from my desire to have a specific set of procedures or a system that would help me to easily create websites. After
-building so many websites you start noticing a trend of the same things you normally do. For example, doing CSS resets,
-coming up with a typography and spacing system, picking specific colors, etc.
-
-
-### [Biomatic UI](https://github.com/moonrhythm/biomatic) - No Official Site
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/moonrhythm/biomatic.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/moonrhythm/biomatic.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/moonrhythm/biomatic.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/moonrhythm/biomatic.svg?style=flat-square&maxAge=5184000)]()
-
-A Flexible Atomic-Focused CSS Framework. It's Atomic-Focus, carefully
-naming, configurable, pure CSS, fun and it has basic components included
-and a clean responsive grid.
-
-
 ### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
@@ -133,51 +106,6 @@ controls and simplistic structure. Cirrus is designed to be adaptable
 to existing themes or when starting fresh.
 
 
-### [Clarity Design System](https://github.com/vmware/clarity) - [Official Site](https://vmware.github.io/clarity/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/vmware/clarity.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/vmware/clarity.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/vmware/clarity.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/vmware/clarity.svg?style=flat-square&maxAge=5184000)]()
-
-UX guidelines, HTML/CSS framework, and Angular components working
-together to craft exceptional experiences. Designed for designers and
-built for developers. From prototype to product, faster and better. 
-
-
-### [clay.css](https://github.com/codeAdrian/clay.css) - [Official Site](https://codeadrian.github.io/clay.css/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/codeAdrian/clay.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/codeAdrian/clay.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/codeAdrian/clay.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/codeAdrian/clay.css.svg?style=flat-square&maxAge=5184000)]()
-
-Micro CSS util class for applying inflated fluffy 3D claymorphism styles to elements. Fully customizable and extensible
-with CSS variables. SASS mixin is also included for even more styling options.
-
-
-### [Concise CSS](https://github.com/ConciseCSS/concise.css) - [Official Site](http://concisecss.com/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/ConciseCSS/concise.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/ConciseCSS/concise.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/ConciseCSS/concise.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/ConciseCSS/concise.css.svg?style=flat-square&maxAge=5184000)]()
-
-Give up the bloat. Stop tripping over your classes. Be Concise. Concise 
-CSS is a lightweight CSS framework that provides a number of great
-features without the bloat. Concise CSS provides a solid foundation to
-stylize your website. It offers an alternative to frameworks like
-Bootstrap and Foundation, with the difference that Concise only includes
-the minimum styles required. That does not mean that the features are
-limited; is possible to use add-ons on top of the core to extend the
-functionality as required. The core of the framework only includes
-styles for native HTML elements. Components and utilities are provided
-as optional add-ons, Concise UI and Concise Utils, respectively.
-
-
 ### [DAUB](https://github.com/sliday/daub) - [Official Site](https://daub.dev/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -198,25 +126,6 @@ Considered CSS component library — 73 components, 20 theme families, classless
 [![GitHub issues](https://img.shields.io/github/issues/saadeghi/daisyui.svg?style=flat-square&maxAge=5184000)]()
 
 Tailwind CSS Components. Clean HTML with component classes. Customizable and themeable. Pure CSS, No dependencies.
-
-
-### [Denali CSS](https://github.com/denali-design/denali-css) - [Official Site](https://denali-design.github.io/denali-css/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/denali-design/denali-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/denali-design/denali-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/denali-design/denali-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/denali-design/denali-css.svg?style=flat-square&maxAge=5184000)]()
-
-The Denali System Language was created by the Platforms and Technology 
-Design team at Verizon Media as a scalable method for designing and 
-developing visually consistent and functional internal products. 
-Denali’s CSS framework allows developers to implement the Denali System 
-Language in their projects. The framework is lightweight and flexible. 
-It supports theming through custom variables which means the visual 
-appearance of Denali’s components can be easily adapted to fit the 
-visual style of any brand. Additionally, components are framework 
-independent allowing you to take what you need and leave the rest.
 
 
 ### [Fylgja](https://github.com/fylgja/fylgja) - [Official Site](https://fylgja.dev/)
@@ -286,22 +195,6 @@ HyperUI is a collection of free Tailwind CSS components that can be used in your
 components, you can build your next marketing website, admin dashboard, eCommerce store and much more.
 
 
-### [Ink](https://github.com/sapo/Ink/) - [Official Site](http://ink.sapo.pt/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/sapo/Ink.svg?style=flat-square&maxAge=5184000)]()
-
-Create responsive web interfaces quick and efficiently. Ink is an
-interface kit for quick development of web interfaces, simple to use and
-expand on. It uses a combination of HTML, CSS and JavaScript to offer
-modern solutions for building layouts, display common interface elements
-and implement interactive features that are content-centric and user
-friendly for both your audience and your designers & developers.
-
-
 ### [Ivory](https://github.com/ivory-ui/ivory) - [Official Site](http://ivoryui.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -312,18 +205,6 @@ friendly for both your audience and your designers & developers.
 
 IVORY is a CSS framework, specially created for web applications and committed to improve the experience of users. 
 It gives you all the basic integrants to build your pages faster and easier.
-
-
-### [Layers CSS](https://github.com/jerryjappinen/layers-css) - [Official Site](https://layers-css.vercel.app/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/jerryjappinen/layers-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/jerryjappinen/layers-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/jerryjappinen/layers-css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/jerryjappinen/layers-css.svg?style=flat-square&maxAge=5184000)]()
-
-A lightweight, unobtrusive and style-agnostic, CSS framework aimed
-for practical use cases. Comes with a small footprint and zero bullshit.
 
 
 ### [Lightning Design System](https://github.com/salesforce-ux/design-system) - [Official Site](https://www.lightningdesignsystem.com/)
@@ -445,18 +326,6 @@ Tailwind CSS alternative for custom websites and creative coding.
 Make CSS exciting again!
 
 
-### [ModestaCSS](https://github.com/AlexFlipnote/ModestaCSS) - [Official Site](https://modesta.alexflipnote.xyz/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/AlexFlipnote/ModestaCSS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/AlexFlipnote/ModestaCSS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/AlexFlipnote/ModestaCSS.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/AlexFlipnote/ModestaCSS.svg?style=flat-square&maxAge=5184000)]()
-
-A clean CSS framework made to be dark, responsive and easy to build 
-with. 
-
-
 ### [MVP.css](https://github.com/andybrewer/mvp/) - [Official Site](https://andybrewer.github.io/mvp/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
@@ -503,20 +372,6 @@ Flyers help make it better every day. This repo contains core (HTML/CSS) impleme
 
 Minimal UI Component Library by Saurabh Chirde. Build rapid modern websites without ever leaving your HTML with Pebble
 UI.
-
-
-### [Petal](https://github.com/shakrmedia/petal/) - [Official Site](https://shakrmedia.github.io/petal/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/shakrmedia/petal.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/shakrmedia/petal.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/shakrmedia/petal.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/shakrmedia/petal.svg?style=flat-square&maxAge=5184000)]()
-
-A modern, light CSS UI framework developed at Shakr. Petal aims to 
-provide an ample set of consistently designed UI components you can
-easily utilize in your web projects. Petal is fully coded on LESS from
-scratch.
 
 
 ### [Pink Design](https://github.com/appwrite/pink) - [Official Site](https://pink.appwrite.io/)
@@ -570,18 +425,6 @@ A set of small, responsive CSS modules that you can use in every web
 project. Pure is meant to be a starting point for every website or web
 app. We take care of all the CSS work that every site needs, without
 making it look cookie-cutter.
-
-
-### [Responsive](https://github.com/responsivebp/responsive) - [Official Site](http://responsivebp.com/)
-  
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/responsivebp/responsive.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/responsivebp/responsive.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/responsivebp/responsive.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/responsivebp/responsive.svg?style=flat-square&maxAge=5184000)]()
-
-A powerful, accessible, developer friendly framework for building
-responsive websites.
 
 
 ### [Rivet Design System](https://github.com/indiana-university/rivet-source) - [Official Site](https://rivet.iu.edu/)
@@ -766,19 +609,6 @@ Our documentation is built with Stacks itself, using its immutable, atomic class
 Stylify is a library that uses CSS-like selectors to generate optimized utility-first CSS dynamically based on what you
 write.
 Don't study framework. Focus on coding.
-
-
-### [System.css](https://github.com/sakofchit/system.css) - [Official Site](https://sakofchit.github.io/system.css/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/sakofchit/system.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/sakofchit/system.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/sakofchit/system.css.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/sakofchit/system.css.svg?style=flat-square&maxAge=5184000)]()
-
-System.css is a CSS library for building interfaces that resemble Apple's System OS which ran from 1984-1991.
-Design-wise, not much really changed from System 1 to System 6; however this library is based on System 6 as it was the
-final monochrome version of MacOS.
 
 
 ### [Tachyons](https://github.com/tachyons-css/tachyons/) - [Official Site](http://tachyons.io/)

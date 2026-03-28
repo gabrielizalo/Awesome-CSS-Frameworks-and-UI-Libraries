@@ -281,6 +281,23 @@ Focus on the content and structure of your HTML. This is just a silly idea, a CS
 as opposed to using class names as style hooks — to help people become more familiar with how to use semantic HTML.
 
 
+### [CSS Remedy](https://github.com/jensimmons/cssremedy) - No Official Site
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/jensimmons/cssremedy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/jensimmons/cssremedy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/jensimmons/cssremedy.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/jensimmons/cssremedy.svg?style=flat-square&maxAge=5184000)]()
+
+Start your project with a remedy for the technical debt of CSS. A gift
+to you from Mozilla Developer Outreach. Browsers these days are consistent
+in how they render CSS. But there are limitations on how far browsers can
+improve their User Agent Stylesheet. The defaults for the web have to
+be consistent with the past. You, however, don't have to stay in the past.
+You can override the UA styles with more modern ideas of how CSS should
+work by default. Introducing CSS Remedy.
+
+
 ### [Cute Grids](https://github.com/dazzyweb/cute-grids) - [Official Site](http://www.cutegrids.com/) 
  
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

@@ -10,7 +10,7 @@ Last update: 2026-03-28
 
 * [The Big Ones (22)](#the-big-ones)
 * [AI Interfaces (1)](AI/README.md)
-* [Base / Reset / Normalize (15)](BaseResetNormalize/README.md)
+* [Base / Reset / Normalize (14)](BaseResetNormalize/README.md)
 * [General Purpose (66)](GeneralPurpose/README.md)
 * [Lightweight (27)](Lightweight/README.md)
 * [Material Design (7)](MaterialDesign/README.md)
@@ -18,7 +18,7 @@ Last update: 2026-03-28
 * [Specialized: Grid Systems (2)](SpecializedGridSystems/README.md)
 * [Specialized: For React (62)](SpecializedReact/README.md)
 * [Specialized: Other (12)](Specialized/README.md)
-* [No Longer Maintained (110)](NoLongerMaintained/README.md)
+* [No Longer Maintained (111)](NoLongerMaintained/README.md)
 
 
 

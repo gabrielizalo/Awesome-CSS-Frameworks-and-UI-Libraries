@@ -647,6 +647,18 @@ A set of high-quality accessible React UI components with the built-in
 dark mode using Tailwind CSS. Pre-designed headless ui and radix-ui.
 
 
+### [VengeanceUI](https://github.com/Ashutoshx7/VengenceUI) - [Official Site](https://www.vengenceui.com)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/Ashutoshx7/VengenceUI.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/Ashutoshx7/VengenceUI.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/Ashutoshx7/VengenceUI.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/Ashutoshx7/VengenceUI.svg?style=flat-square&maxAge=5184000)]()
+
+VengeanceUI is a modern, animated UI component library designed to help developers build beautiful landing pages and
+interfaces faster. It provides ready-to-use, copy-paste friendly components with smooth animations and clean design.
+
+
 ### [wedges](https://github.com/lmsqueezy/wedges) - [Official Site](https://lemonsqueezy.com/wedges)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/lmsqueezy/wedges.svg?style=flat-square&maxAge=5184000)]()

@@ -11,7 +11,7 @@ Last update: 2026-03-28
 ## Categories
 
 * [The Big Ones (22)](#the-big-ones)
-* [AI Interfaces (2)](AI/README.md)
+* [AI Interfaces (3)](AI/README.md)
 * [Base / Reset / Normalize (14)](BaseResetNormalize/README.md)
 * [General Purpose (55)](GeneralPurpose/README.md)
 * [Lightweight (24)](Lightweight/README.md)

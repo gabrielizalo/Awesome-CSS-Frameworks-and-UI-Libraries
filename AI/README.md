@@ -6,6 +6,18 @@
 ## AI Interfaces
 
 
+### [Ant Design X](https://github.com/ant-design/x) - [Official Site](https://x.ant.design)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/ant-design/x.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/ant-design/x.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/ant-design/x.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/ant-design/x.svg?style=flat-square&maxAge=5184000)]()
+
+The Ant Design team presents the RICH paradigm, crafting superior AI interface solutions and pioneering intelligent
+experiences.
+
+
 ### [prompt-kit](https://github.com/ibelick/prompt-kit) - [Official Site](https://prompt-kit.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()

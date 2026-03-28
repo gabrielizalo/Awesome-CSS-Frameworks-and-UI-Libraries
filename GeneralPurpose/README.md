@@ -178,6 +178,17 @@ styles for native HTML elements. Components and utilities are provided
 as optional add-ons, Concise UI and Concise Utils, respectively.
 
 
+### [DAUB](https://github.com/sliday/daub) - [Official Site](https://daub.dev/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/sliday/daub.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/sliday/daub.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/sliday/daub.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/sliday/daub.svg?style=flat-square&maxAge=5184000)]()
+
+Considered CSS component library — 73 components, 20 theme families, classless mode, AI-ready with llms.txt and MCP server. Zero build step.
+
+
 ### [daisyUI](https://github.com/saadeghi/daisyui) - [Official Site](https://daisyui.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

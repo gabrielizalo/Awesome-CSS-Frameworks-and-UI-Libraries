@@ -278,6 +278,18 @@ no layouts. Just design plain and simple web pages compliant with HTML5
 and they will look OK.
 
 
+### [Tani](https://github.com/TaniCSS/Tani) - [Official Site](https://tanicss.github.io/docs/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/TaniCSS/Tani.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/TaniCSS/Tani.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/TaniCSS/Tani.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/TaniCSS/Tani.svg?style=flat-square&maxAge=5184000)]()
+
+Tani is a modern CSS framework that provides a comprehensive set of utility classes and components to build responsive,
+beautiful web interfaces quickly and efficiently.
+
+
 ### [Terminal.css](https://github.com/Gioni06/terminal.css) - [Official Site](https://terminalcss.xyz/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

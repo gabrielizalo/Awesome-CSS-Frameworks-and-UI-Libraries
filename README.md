@@ -14,7 +14,7 @@ Last update: 2026-04-25
 * [AI Interfaces (3)](AI/README.md)
 * [Base / Reset / Normalize (14)](BaseResetNormalize/README.md)
 * [General Purpose (57)](GeneralPurpose/README.md)
-* [Lightweight (24)](Lightweight/README.md)
+* [Lightweight (25)](Lightweight/README.md)
 * [Material Design (7)](MaterialDesign/README.md)
 * [Specialized: Email (6)](SpecializedEmail/README.md)
 * [Specialized: Grid Systems (2)](SpecializedGridSystems/README.md)

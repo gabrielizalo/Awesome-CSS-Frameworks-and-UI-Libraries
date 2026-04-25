@@ -177,6 +177,19 @@ to maintain all of the features that Skeleton and other similar
 frameworks offer, while working on older browsers as well.
 
 
+### [Lism CSS](https://github.com/lism-css/lism-css) - [Official Site](https://lism-css.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/lism-css/lism-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/lism-css/lism-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/lism-css/lism-css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/lism-css/lism-css.svg?style=flat-square&maxAge=5184000)]()
+
+Lism CSS is a lightweight CSS design framework for quickly and beautifully building website layouts. Inspired by Every
+Layout's layout primitives and harmonic modular scaling, and by Tailwind CSS's utility-first approach of
+single-property classes, Lism CSS is built as an original CSS design.
+
+
 ### [Luxa CSS](https://github.com/luxonauta/luxa) - [Official Site](https://luxacss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

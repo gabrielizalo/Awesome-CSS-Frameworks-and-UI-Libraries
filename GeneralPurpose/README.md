@@ -438,6 +438,19 @@ app. We take care of all the CSS work that every site needs, without
 making it look cookie-cutter.
 
 
+### [ReUI](https://github.com/keenthemes/reui) - [Official Site]https://reui.io/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/keenthemes/reui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/keenthemes/reui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/keenthemes/reui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/keenthemes/reui.svg?style=flat-square&maxAge=5184000)]()
+
+ReUI is a free, open-source component library for the shadcn/ui ecosystem. Explore 1,000+ production-ready components
+across 68 categories, each shown inside realistic dashboard layouts—not isolated demos—and copy them directly into your
+React projects.
+
+
 ### [Rivet Design System](https://github.com/indiana-university/rivet-source) - [Official Site](https://rivet.iu.edu/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()

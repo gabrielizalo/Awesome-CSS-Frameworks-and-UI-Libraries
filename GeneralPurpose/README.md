@@ -438,7 +438,7 @@ app. We take care of all the CSS work that every site needs, without
 making it look cookie-cutter.
 
 
-### [ReUI](https://github.com/keenthemes/reui) - [Official Site]https://reui.io/)
+### [ReUI](https://github.com/keenthemes/reui) - [Official Site](https://reui.io/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/keenthemes/reui.svg?style=flat-square&maxAge=5184000)]()

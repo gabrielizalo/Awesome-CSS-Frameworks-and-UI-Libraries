@@ -571,6 +571,18 @@ This project aims to bring the charm of pixel art and retro gaming to modern web
 designers a toolkit to create websites with a vintage flair.
 
 
+### [SoftUI](https://github.com/siddharth-bhansali/softui) - [Official Site](https://softui-css.netlify.app/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/siddharth-bhansali/softui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/siddharth-bhansali/softui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/siddharth-bhansali/softui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/siddharth-bhansali/softui.svg?style=flat-square&maxAge=5184000)]()
+
+A neumorphic CSS library with soft shadows, muted palettes, and tactile depth.
+Zero dependencies. Dark mode built in. Just drop it in.
+
+
 ### [Spectrum CSS](https://github.com/adobe/spectrum-css) - [Official Site](https://opensource.adobe.com/spectrum-css/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

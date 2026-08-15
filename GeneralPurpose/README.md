@@ -55,6 +55,18 @@ and largest design system in the company — powering 13,000+ apps and shaped by
 teams who depend on it every day.
 
 
+### [BagUi](https://github.com/anelkabag/bag-ui) - [Official Site](https://www.bagui.pro)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/anelkabag/bag-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/anelkabag/bag-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/anelkabag/bag-ui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/anelkabag/bag-ui.svg?style=flat-square&maxAge=5184000)]()
+
+A modern, open-source registry of UI components, blocks, and ready-to-use sections — built to help developers ship
+polished interfaces faster with shadcn/ui.
+
+
 ### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()

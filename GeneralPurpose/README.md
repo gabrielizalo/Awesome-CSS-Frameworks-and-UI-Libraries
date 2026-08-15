@@ -183,6 +183,19 @@ Built-in dark mode, optional JavaScript library (no jQuery), Bootstrap like clas
 (including IE11).
 
 
+### [Graffiti](https://github.com/stolinski/graffiti) - [Official Site]([https://www.gethalfmoon.com/](https://graffiti-ui.com/))
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/stolinski/graffiti.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/stolinski/graffiti.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/stolinski/graffiti.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/stolinski/graffiti.svg?style=flat-square&maxAge=5184000)]()
+
+The standards-first, full-featured CSS library for the modern web.
+Utilities, elements, blocks, and templates. Highly configurable. Endlessly themeable. Zero JavaScript. Works with your
+favorite framework or straight-up HTML.
+
+
 ### [HyperUI](https://github.com/markmead/hyperui) - [Official Site](https://www.hyperui.dev/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()

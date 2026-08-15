@@ -4,7 +4,7 @@
 
 An extensive list of Awesome CSS Frameworks and UI/Components Libraries based on **[Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)**.
 
-Last update: 2026-04-25
+Last update: 2026-08-15
 
 
 
@@ -13,7 +13,7 @@ Last update: 2026-04-25
 * [The Big Ones (25)](#the-big-ones)
 * [AI Interfaces (3)](AI/README.md)
 * [Base / Reset / Normalize (14)](BaseResetNormalize/README.md)
-* [General Purpose (57)](GeneralPurpose/README.md)
+* [General Purpose (58)](GeneralPurpose/README.md)
 * [Lightweight (25)](Lightweight/README.md)
 * [Material Design (7)](MaterialDesign/README.md)
 * [Specialized: Email (6)](SpecializedEmail/README.md)

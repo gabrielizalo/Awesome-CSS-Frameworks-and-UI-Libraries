@@ -30,6 +30,18 @@ A design system for building faithful recreations of old UIs. 98.css is a CSS fi
 it look pretty. It does not ship with any JavaScript, so it is compatible with your frontend framework of choice.
 
 
+### [Arise UI](https://github.com/amitgajare2/ariseui) - [Official Site](https://ariseui.vercel.app)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/amitgajare2/ariseui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/amitgajare2/ariseui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/amitgajare2/ariseui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/amitgajare2/ariseui.svg?style=flat-square&maxAge=5184000)]()
+
+Beautiful animated UI components for Next.js, React & Tailwind CSS.
+A growing shadcn/ui registry featuring premium-quality components designed for modern web applications.
+
+
 ### [Astryx](https://github.com/facebook/astryx) - [Official Site](http://astryx.atmeta.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()

@@ -13,7 +13,7 @@ Last update: 2026-08-15
 * [The Big Ones (25)](#the-big-ones)
 * [AI Interfaces (3)](AI/README.md)
 * [Base / Reset / Normalize (14)](BaseResetNormalize/README.md)
-* [General Purpose (60)](GeneralPurpose/README.md)
+* [General Purpose (61)](GeneralPurpose/README.md)
 * [Lightweight (26)](Lightweight/README.md)
 * [Material Design (7)](MaterialDesign/README.md)
 * [Specialized: Email (6)](SpecializedEmail/README.md)

@@ -749,6 +749,18 @@ A lightweight and modular front-end framework for developing fast and
 powerful web interfaces.
 
 
+### [unlumen UI](https://github.com/leovvx/unlumen-ui-docs) - [Official Site](https://ui.unlumen.com)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/leovvx/unlumen-ui-docs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/leovvx/unlumen-ui-docs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/leovvx/unlumen-ui-docs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/leovvx/unlumen-ui-docs.svg?style=flat-square&maxAge=5184000)]()
+
+Polished primitives and components for React and shadcn, shaped with thoughtful motion.
+Production-ready motion, refined components, and new drops built to stay useful long after the trend fades.
+
+
 ### [Vital](https://github.com/doximity/vital) - [Official Site](https://vitalcss.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()

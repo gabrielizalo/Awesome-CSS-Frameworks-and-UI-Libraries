@@ -30,18 +30,6 @@ A design system for building faithful recreations of old UIs. 98.css is a CSS fi
 it look pretty. It does not ship with any JavaScript, so it is compatible with your frontend framework of choice.
 
 
-### [Arise UI](https://github.com/amitgajare2/ariseui) - [Official Site](https://ariseui.vercel.app)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/amitgajare2/ariseui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/amitgajare2/ariseui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/amitgajare2/ariseui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/amitgajare2/ariseui.svg?style=flat-square&maxAge=5184000)]()
-
-Beautiful animated UI components for Next.js, React & Tailwind CSS.
-A growing shadcn/ui registry featuring premium-quality components designed for modern web applications.
-
-
 ### [Astryx](https://github.com/facebook/astryx) - [Official Site](http://astryx.atmeta.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
@@ -488,19 +476,6 @@ app. We take care of all the CSS work that every site needs, without
 making it look cookie-cutter.
 
 
-### [ReUI](https://github.com/keenthemes/reui) - [Official Site](https://reui.io/)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/keenthemes/reui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/keenthemes/reui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/keenthemes/reui.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/keenthemes/reui.svg?style=flat-square&maxAge=5184000)]()
-
-ReUI is a free, open-source component library for the shadcn/ui ecosystem. Explore 1,000+ production-ready components
-across 68 categories, each shown inside realistic dashboard layouts—not isolated demos—and copy them directly into your
-React projects.
-
-
 ### [Rivet Design System](https://github.com/indiana-university/rivet-source) - [Official Site](https://rivet.iu.edu/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
@@ -771,18 +746,6 @@ The U.S. Web Design System helps the federal government build fast, accessible, 
 
 A lightweight and modular front-end framework for developing fast and 
 powerful web interfaces.
-
-
-### [unlumen UI](https://github.com/leovvx/unlumen-ui-docs) - [Official Site](https://ui.unlumen.com)
-
-[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub last commit](https://img.shields.io/github/last-commit/leovvx/unlumen-ui-docs.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub tag](https://img.shields.io/github/tag/leovvx/unlumen-ui-docs.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub stars](https://img.shields.io/github/stars/leovvx/unlumen-ui-docs.svg?style=flat-square&maxAge=5184000)]()
-[![GitHub issues](https://img.shields.io/github/issues/leovvx/unlumen-ui-docs.svg?style=flat-square&maxAge=5184000)]()
-
-Polished primitives and components for React and shadcn, shaped with thoughtful motion.
-Production-ready motion, refined components, and new drops built to stay useful long after the trend fades.
 
 
 ### [Vital](https://github.com/doximity/vital) - [Official Site](https://vitalcss.com/)

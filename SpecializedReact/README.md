@@ -63,6 +63,18 @@ features many components that can help you create amazing websites. Argon Design
 individual components, giving you the freedom of choosing and combining.
 
 
+### [Arise UI](https://github.com/amitgajare2/ariseui) - [Official Site](https://ariseui.vercel.app)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/amitgajare2/ariseui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/amitgajare2/ariseui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/amitgajare2/ariseui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/amitgajare2/ariseui.svg?style=flat-square&maxAge=5184000)]()
+
+Beautiful animated UI components for Next.js, React & Tailwind CSS.
+A growing shadcn/ui registry featuring premium-quality components designed for modern web applications.
+
+
 ### [Ark UI](https://github.com/chakra-ui/ark) - [Official Site](https://ark-ui.com/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/chakra-ui/ark.svg?style=flat-square&maxAge=5184000)]()
@@ -506,6 +518,19 @@ Stateless React Components for Bootstrap 4.
 Build accessible rich web apps with React. Toolkit for building accessible rich web apps with React.
 
 
+### [ReUI](https://github.com/keenthemes/reui) - [Official Site](https://reui.io/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/keenthemes/reui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/keenthemes/reui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/keenthemes/reui.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/keenthemes/reui.svg?style=flat-square&maxAge=5184000)]()
+
+ReUI is a free, open-source component library for the shadcn/ui ecosystem. Explore 1,000+ production-ready components
+across 68 categories, each shown inside realistic dashboard layouts—not isolated demos—and copy them directly into your
+React projects.
+
+
 ### [Rewind UI](https://github.com/rewindui/rewindui) - [Official Site](https://rewind-ui.dev/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/rewindui/rewindui.svg?style=flat-square&maxAge=5184000)]()
@@ -601,6 +626,18 @@ flexibility of CSS-in-JS with the carefully considered constraints of the Tailwi
 [![GitHub issues](https://img.shields.io/github/issues/AKAspanion/ui-neumorphism.svg?style=flat-square&maxAge=5184000)]()
 
 React component library designed on the "new skeuomorphism" or "neumorphism" UI/UX trend.
+
+
+### [unlumen UI](https://github.com/leovvx/unlumen-ui-docs) - [Official Site](https://ui.unlumen.com)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/leovvx/unlumen-ui-docs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/leovvx/unlumen-ui-docs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/leovvx/unlumen-ui-docs.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/leovvx/unlumen-ui-docs.svg?style=flat-square&maxAge=5184000)]()
+
+Polished primitives and components for React and shadcn, shaped with thoughtful motion.
+Production-ready motion, refined components, and new drops built to stay useful long after the trend fades.
 
 
 ### [VengeanceUI](https://github.com/Ashutoshx7/VengenceUI) - [Official Site](https://www.vengenceui.com)

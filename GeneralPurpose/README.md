@@ -30,6 +30,19 @@ A design system for building faithful recreations of old UIs. 98.css is a CSS fi
 it look pretty. It does not ship with any JavaScript, so it is compatible with your frontend framework of choice.
 
 
+### [Astryx](https://github.com/facebook/astryx) - [Official Site](http://astryx.atmeta.com/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/facebook/astryx.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/facebook/astryx.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/facebook/astryx.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/facebook/astryx.svg?style=flat-square&maxAge=5184000)]()
+
+Astryx is an open source design system that grew inside Meta over the last eight years, where it became the most-used
+and largest design system in the company — powering 13,000+ apps and shaped by the engineers, designers, and product
+teams who depend on it every day.
+
+
 ### [Bootstrap](https://github.com/twbs/bootstrap) - [Official Site](http://getbootstrap.com)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()

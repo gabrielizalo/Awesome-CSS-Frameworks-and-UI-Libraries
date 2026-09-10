@@ -30,6 +30,16 @@ AgnosticUI is a set of UI primitives that start their lives in clean HTML and CS
 are then copied to our framework implementations in: React, Vue 3, Angular, and Svelte.
 
 
+### [AI Canvas](https://github.com/aicanvas-me/aicanvas) - [Official Site](https://aicanvas.me/)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/aicanvas-me/aicanvas.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/aicanvas-me/aicanvas.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/aicanvas-me/aicanvas.svg?style=flat-square&maxAge=5184000)]()
+
+AI Canvas is an open-source (MIT) registry of animated React components, blocks and design systems, built with Tailwind
+CSS and Motion. Components ship with their full source and install with a single shadcn CLI command.
+
+
 ### [Amplify UI](https://github.com/aws-amplify/amplify-ui) - [Official Site](https://ui.docs.amplify.aws/)
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/aws-amplify/amplify-ui.svg?style=flat-square&maxAge=5184000)]()

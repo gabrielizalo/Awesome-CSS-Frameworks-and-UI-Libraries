@@ -142,5 +142,18 @@ to Tailwind, which provides faster load times, fully compatible with
 Tailwind v2.0 and with a bunch of additional cool features.
 
 
+### [WovenUI Core](https://github.com/WovenUI/core) - [Official Site](https://wovenui.com)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/WovenUI/core.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/WovenUI/core.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/WovenUI/core.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/WovenUI/core.svg?style=flat-square&maxAge=5184000)]()
+
+WovenUI is an open-source CSS design system: design tokens, readable utility classes and HTML components that compile
+to plain CSS and work in any stack. Core and Components are written in SCSS, and their --wu- tokens carry light, dark, 
+inverse and high-contrast themes.
+
+
 
 [_Return to Categories_](../README.md)

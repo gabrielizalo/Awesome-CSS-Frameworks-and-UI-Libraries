@@ -18,6 +18,17 @@ The Ant Design team presents the RICH paradigm, crafting superior AI interface s
 experiences.
 
 
+### [MasterCSS](https://github.com/master-co/css) - [Official Site](https://css.master.co)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/master-co/css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/master-co/css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/master-co/css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/master-co/css.svg?style=flat-square&maxAge=5184000)]()
+
+A markup-driven CSS orchestration language for developers and AI agents.
+
+
 ### [prompt-kit](https://github.com/ibelick/prompt-kit) - [Official Site](https://prompt-kit.com/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()

@@ -463,6 +463,19 @@ app. We take care of all the CSS work that every site needs, without
 making it look cookie-cutter.
 
 
+### [RevaCSS](https://github.com/eristavi/RevaCSS) - [Official Site](https://revacss.eristavi.org)
+
+[![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/eristavi/RevaCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/eristavi/RevaCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/eristavi/RevaCSS.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/eristavi/RevaCSS.svg?style=flat-square&maxAge=5184000)]()
+
+A modern, native-web framework. HTML and CSS first
+An HTML/CSS-first framework for native elements and reusable components. Choose your theme with data attributes, then
+build with a zero-JavaScript core and no CSS build step.
+
+
 ### [Rivet Design System](https://github.com/indiana-university/rivet-source) - [Official Site](https://rivet.iu.edu/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()

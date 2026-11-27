@@ -131,6 +131,18 @@ controls and simplistic structure. Cirrus is designed to be adaptable
 to existing themes or when starting fresh.
 
 
+### [clio.css](https://github.com/surfine/clio.css) - [Official Site](https://surfine.github.io/clio.css/)
+
+[![JS Dependency](https://img.shields.io/badge/JS-yes-blue.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub last commit](https://img.shields.io/github/last-commit/surfine/clio.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub tag](https://img.shields.io/github/tag/surfine/clio.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub stars](https://img.shields.io/github/stars/surfine/clio.css.svg?style=flat-square&maxAge=5184000)]()
+[![GitHub issues](https://img.shields.io/github/issues/surfine/clio.css.svg?style=flat-square&maxAge=5184000)]()
+
+CSS library for Classic Mac OS and NeXTSTEP interfaces: System 6, System 7, Mac OS 8.5 Drawing Board, Mac OS 9 Platinum
+and NeXTSTEP 3.3, every value measured from real pixels. React and Preact components.
+
+
 ### [DAUB](https://github.com/sliday/daub) - [Official Site](https://daub.dev/)
 
 [![JS Dependency](https://img.shields.io/badge/JS-no-lightgrey.svg?style=flat-square&maxAge=5184000)]()
